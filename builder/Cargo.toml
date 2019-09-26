@@ -18,3 +18,4 @@ trybuild = "1.0"
 [dependencies]
 quote = "1.0.2"
 syn = "1.0.5"
+proc-macro2 = "1.0.4"
